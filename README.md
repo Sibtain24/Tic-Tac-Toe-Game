@@ -4,7 +4,7 @@ This is a 2-player 'Tic-Tac-Toe' Game created in Python.
 
 ## Instructions to Play this Game:
 
-1) Download the 'main.py' if you have Python installed in your PC or else download the 'Tic-Tac-Toe.exe' file.
+1) Download the 'main.py' file if you have Python installed on your PC or else download the 'Tic-Tac-Toe.exe' file.
 
 2) Run the 'main.py' or 'Tic-Tac-Toe.exe' file.
 
